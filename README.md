@@ -36,26 +36,26 @@ Nesta etapa, realizamos uma transação demonstrando como as assinaturas são ne
 - Segunda assinatura  
 - Execução automática da transação  
 
-![Transaction-1](images/Transaction-1.png) 
-![Transaction-2](images/Transaction-2.png) 
-![Transaction-3](images/Transaction-3.png) 
-![Transaction-4](images/Transaction-4.png) 
-![Transaction-5](images/Transaction-5.png) 
-![Transaction-6](images/Transaction-6.png) 
-![Confirmation-1](images/Confirmation-1.png)  
-![Confirmation-2](images/Confirmation-2.png)  
-![Confirmation-3](images/Confirmation-3.png)  
-![Confirmation-4](images/Confirmation-4.png)  
-![Confirmation-5](images/Confirmation-5.png)  
-![Confirmation-6](images/Confirmation-6.png)  
-![Confirmation-7](images/Confirmation-7.png)
-![Confirmation-8](images/Confirmation-8.png)
-![Confirmation-9](images/Confirmation-9.png)
-![Confirmation-9](images/Confirmation-10.png)
-![Execute-1](images/Execute-1.png)
-![Execute-2](images/Execute-2.png)
-![Execute-3](images/Execute-3.png)
-![Execute-4](images/Execute-4.png)
+![Transaction-1](images/Transaction_1.png) 
+![Transaction-2](images/Transaction_2.png) 
+![Transaction-3](images/Transaction_3.png) 
+![Transaction-4](images/Transaction_4.png) 
+![Transaction-5](images/Transaction_5.png) 
+![Transaction-6](images/Transaction_6.png) 
+![Confirmation-1](images/Confirmation_1.png)  
+![Confirmation-2](images/Confirmation_2.png)  
+![Confirmation-3](images/Confirmation_3.png)  
+![Confirmation-4](images/Confirmation_4.png)  
+![Confirmation-5](images/Confirmation_5.png)  
+![Confirmation-6](images/Confirmation_6.png)  
+![Confirmation-7](images/Confirmation_7.png)
+![Confirmation-8](images/Confirmation_8.png)
+![Confirmation-9](images/Confirmation_9.png)
+![Confirmation-9](images/Confirmation_10.png)
+![Execute-1](images/Execute_1.png)
+![Execute-2](images/Execute_2.png)
+![Execute-3](images/Execute_3.png)
+![Execute-4](images/Execute_4.png)
 
 
 ---
@@ -66,9 +66,9 @@ Todas as operações ficam registradas, permitindo transparência e auditoria.
 - Lista de transações  
 - Detalhes de assinaturas e status  
 
-![HistoryTransaction-1](images/HistoryTransaction-1.png)  
-![HistoryTransaction-2](images/HistoryTransaction-2.png)  
-![HistoryTransaction-3](images/HistoryTransaction-3.png)  
+![HistoryTransaction-1](images/HistoryTransaction_1.png)  
+![HistoryTransaction-2](images/HistoryTransaction_2.png)  
+![HistoryTransaction-3](images/HistoryTransaction_3.png)  
 
 
 ---
