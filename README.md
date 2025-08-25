@@ -17,12 +17,11 @@ Durante esta etapa, configuramos a carteira multisig com 3 owners e exigência d
 - Definição das assinaturas necessárias  
 - Revisão e criação da carteira  
 
-![Criação 1](images/Captura%20de%20tela%20de%202025-08-23%2022-02-39.png)  
-![Criação 2](images/Captura%20de%20tela%20de%202025-08-23%2022-03-42.png)  
-![Criação 3](images/Captura%20de%20tela%20de%202025-08-23%2022-06-04.png)  
-![Criação 4](images/Captura%20de%20tela%20de%202025-08-23%2022-06-52.png)  
-![Criação 5](images/Captura%20de%20tela%20de%202025-08-23%2022-07-20.png)  
-![Criação 6](images/Captura%20de%20tela%20de%202025-08-23%2022-08-35.png)  
+![Create-1](images/CreateMultiSig_1.png)  
+![Create-2](images/CreateMultiSig_2.png)  
+![Create-3](images/CreateMultiSig_3.png)  
+![Create-4](images/CreateMultiSig_4.png)
+![Contract](images/ContractMultiSig.png)
 
 ---
 
@@ -37,13 +36,27 @@ Nesta etapa, realizamos uma transação demonstrando como as assinaturas são ne
 - Segunda assinatura  
 - Execução automática da transação  
 
-![Tx 1](images/Captura%20de%20tela%20de%202025-08-23%2022-13-15.png)  
-![Tx 2](images/Captura%20de%20tela%20de%202025-08-23%2022-14-05.png)  
-![Tx 3](images/Captura%20de%20tela%20de%202025-08-23%2022-15-09.png)  
-![Tx 4](images/Captura%20de%20tela%20de%202025-08-23%2022-17-15.png)  
-![Tx 5](images/Captura%20de%20tela%20de%202025-08-23%2022-17-39.png)  
-![Tx 6](images/Captura%20de%20tela%20de%202025-08-23%2022-18-09.png)  
-![Tx 7](images/Captura%20de%20tela%20de%202025-08-23%2022-19-00.png)  
+![Transaction-1](images/Transaction-1.png) 
+![Transaction-2](images/Transaction-2.png) 
+![Transaction-3](images/Transaction-3.png) 
+![Transaction-4](images/Transaction-4.png) 
+![Transaction-5](images/Transaction-5.png) 
+![Transaction-6](images/Transaction-6.png) 
+![Confirmation-1](images/Confirmation-1.png)  
+![Confirmation-2](images/Confirmation-2.png)  
+![Confirmation-3](images/Confirmation-3.png)  
+![Confirmation-4](images/Confirmation-4.png)  
+![Confirmation-5](images/Confirmation-5.png)  
+![Confirmation-6](images/Confirmation-6.png)  
+![Confirmation-7](images/Confirmation-7.png)
+![Confirmation-8](images/Confirmation-8.png)
+![Confirmation-9](images/Confirmation-9.png)
+![Confirmation-9](images/Confirmation-10.png)
+![Execute-1](images/Execute-1.png)
+![Execute-2](images/Execute-2.png)
+![Execute-3](images/Execute-3.png)
+![Execute-4](images/Execute-4.png)
+
 
 ---
 
@@ -53,8 +66,10 @@ Todas as operações ficam registradas, permitindo transparência e auditoria.
 - Lista de transações  
 - Detalhes de assinaturas e status  
 
-![Histórico 1](images/Captura%20de%20tela%20de%202025-08-23%2022-19-36.png)  
-![Histórico 2](images/Captura%20de%20tela%20de%202025-08-23%2022-19-57.png)  
+![HistoryTransaction-1](images/HistoryTransaction-1.png)  
+![HistoryTransaction-2](images/HistoryTransaction-2.png)  
+![HistoryTransaction-3](images/HistoryTransaction-3.png)  
+
 
 ---
 
@@ -65,9 +80,9 @@ A multisig permite ajustes de segurança e gerenciamento de participantes.
 - Configurações de segurança  
 - Painel geral da Safe  
 
-![Config 1](images/Captura%20de%20tela%20de%202025-08-23%2022-20-22.png)  
-![Config 2](images/Captura%20de%20tela%20de%202025-08-23%2022-20-44.png)  
-![Config 3](images/Captura%20de%20tela%20de%202025-08-23%2022-21-10.png)  
+![Config 1](images/Configuration_1.png)  
+![Config 2](images/Configuration_2.png)  
+![Config 3](images/Configuration_3.png)  
 
 ---
 
