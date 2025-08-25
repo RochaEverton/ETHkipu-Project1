@@ -7,6 +7,10 @@ A configuração utilizada foi **3 carteiras no total, exigindo 2 assinaturas pa
 Cada etapa está documentada com capturas de tela para facilitar o entendimento.  
 
 ---
+## 🔑 Endereço da Safe Multi-Sig
+https://sepolia.etherscan.io/address/0x72f4cfeb3622EE37210685BEA61a76C325E6B27e
+
+---
 
 ## 🔑 Criação da Multisig
 Durante esta etapa, configuramos a carteira multisig com 3 owners e exigência de 2 assinaturas.  
